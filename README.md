@@ -6,11 +6,6 @@
 
 ## PROJECT DESCRIPTION
  Autolib is an electric car sharing service company based in Paris. As a data scientist, understanding and working with data is key.In this project, I will be working with the company's data to understand electric car usage overtime. This is done by identifying the most popular hour of the  day for picking up a shared electric car, most popular hour for returning cars and most popular station.
-    
-## SCREENSHOTS
-
-![alt text](/images/s1.png)
-![alt text](images/s2.png)
 
 ## SetUp / Installation Requirements
   Clone the repo by running:
@@ -24,6 +19,7 @@
 
 ## TECHNOLOGIES USED
 * Python pandas
+* Colab notebook
 
 ## CONTACT INFORMATION
  For email reach us through faithgakori506@gmail.com
